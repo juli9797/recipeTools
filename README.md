@@ -5,8 +5,9 @@ Rezepte können zur Datenbankspeicherung (z.B. MongoDB) in JSON gewandelt werden
 
 ToDO:
 
-* Format validierung
-* JSON -> Markdown
+* Formatvalidierung
+* JSON Parser
+* Rezept -> Markdown
 
 ## Installation
 
