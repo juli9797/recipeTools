@@ -1,7 +1,7 @@
 # Rezept Tools
 
 Ein kleines Tool für ein Markdown basiertes Rezeptformat.
-Rezepte können zur speicherung in JSON gewandelt werden.
+Rezepte können zur Datenbankspeicherung (z.B. MongoDB) in JSON gewandelt werden.
 
 ToDO:
 
